@@ -4,7 +4,9 @@ using namespace std;
 
 int main(){
 
-cout<<"Hello git"<<"My new rating";
+
+cout<<"Hello git"<<"My new rating"<<"Comment was added";
+
 
 return 0;
 }
